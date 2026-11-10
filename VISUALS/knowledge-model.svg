@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="820" viewBox="0 0 1400 820" role="img" aria-labelledby="title desc">
+  <title id="title">PP School five-layer learning model</title>
+  <desc id="desc">Five distinct layers connect real-world knowledge, curriculum coordinates, school exposure, learner declaration, and direct evidence without collapsing them into one mastery claim.</desc>
+  <rect width="1400" height="820" fill="#f7f9fb"/>
+  <text x="70" y="82" font-family="Arial, sans-serif" font-size="38" font-weight="700" fill="#1c2938">Five layers, one learning context</text>
+  <text x="70" y="125" font-family="Arial, sans-serif" font-size="20" fill="#536273">Each layer answers a different question. Mapping adds context; it does not manufacture mastery.</text>
+  <text x="70" y="160" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#46599d">Distinct, related dimensions - not a sequential pipeline.</text>
+  <g font-family="Arial, sans-serif">
+    <rect x="70" y="190" width="230" height="390" rx="14" fill="#e5f4ef" stroke="#2d8c78" stroke-width="3"/>
+    <text x="95" y="235" font-size="17" font-weight="700" fill="#246957">01</text>
+    <text x="95" y="285" font-size="26" font-weight="700" fill="#1c2938">World</text>
+    <text x="95" y="319" font-size="26" font-weight="700" fill="#1c2938">knowledge</text>
+    <text x="95" y="380" font-size="18" fill="#536273">Phenomena, concepts,</text>
+    <text x="95" y="409" font-size="18" fill="#536273">models, methods,</text>
+    <text x="95" y="438" font-size="18" fill="#536273">evidence, constraints</text>
+    <text x="95" y="510" font-size="17" font-weight="700" fill="#246957">What exists?</text>
+    <rect x="340" y="190" width="230" height="390" rx="14" fill="#eef1fb" stroke="#5568b4" stroke-width="3"/>
+    <text x="365" y="235" font-size="17" font-weight="700" fill="#46599d">02</text>
+    <text x="365" y="285" font-size="26" font-weight="700" fill="#1c2938">Curriculum</text>
+    <text x="365" y="319" font-size="26" font-weight="700" fill="#1c2938">coordinate</text>
+    <text x="365" y="380" font-size="18" fill="#536273">Jurisdiction, year,</text>
+    <text x="365" y="409" font-size="18" fill="#536273">subject, code, depth</text>
+    <text x="365" y="510" font-size="17" font-weight="700" fill="#46599d">What is required?</text>
+    <rect x="610" y="190" width="230" height="390" rx="14" fill="#fff4df" stroke="#c58b25" stroke-width="3"/>
+    <text x="635" y="235" font-size="17" font-weight="700" fill="#9a6a10">03</text>
+    <text x="635" y="285" font-size="26" font-weight="700" fill="#1c2938">School</text>
+    <text x="635" y="319" font-size="26" font-weight="700" fill="#1c2938">exposure</text>
+    <text x="635" y="380" font-size="18" fill="#536273">Presented, assigned,</text>
+    <text x="635" y="409" font-size="18" fill="#536273">or encountered in a</text>
+    <text x="635" y="438" font-size="18" fill="#536273">learning setting</text>
+    <text x="635" y="510" font-size="17" font-weight="700" fill="#9a6a10">What was encountered?</text>
+    <rect x="880" y="190" width="230" height="390" rx="14" fill="#fbe9ee" stroke="#b65773" stroke-width="3"/>
+    <text x="905" y="235" font-size="17" font-weight="700" fill="#9a405b">04</text>
+    <text x="905" y="285" font-size="26" font-weight="700" fill="#1c2938">Learner</text>
+    <text x="905" y="319" font-size="26" font-weight="700" fill="#1c2938">declaration</text>
+    <text x="905" y="380" font-size="18" fill="#536273">Self-report, feeling,</text>
+    <text x="905" y="409" font-size="18" fill="#536273">confidence, or stated</text>
+    <text x="905" y="438" font-size="18" fill="#536273">understanding</text>
+    <text x="905" y="510" font-size="17" font-weight="700" fill="#9a405b">What does the learner say?</text>
+    <rect x="1150" y="190" width="180" height="390" rx="14" fill="#e7eef8" stroke="#3a6ea5" stroke-width="3"/>
+    <text x="1175" y="235" font-size="17" font-weight="700" fill="#2e5b89">05</text>
+    <text x="1175" y="285" font-size="25" font-weight="700" fill="#1c2938">Direct</text>
+    <text x="1175" y="319" font-size="25" font-weight="700" fill="#1c2938">evidence</text>
+    <text x="1175" y="380" font-size="17" fill="#536273">A defined action,</text>
+    <text x="1175" y="408" font-size="17" fill="#536273">representation,</text>
+    <text x="1175" y="436" font-size="17" fill="#536273">and condition</text>
+    <text x="1175" y="510" font-size="16" font-weight="700" fill="#2e5b89">What was demonstrated?</text>
+  </g>
+  <g stroke="#7b8795" stroke-width="3" stroke-dasharray="8 8" fill="none">
+    <path d="M300 385 H335"/>
+    <path d="M570 385 H605"/>
+    <path d="M840 385 H875"/>
+    <path d="M1110 385 H1145"/>
+  </g>
+  <g fill="#7b8795">
+    <circle cx="300" cy="385" r="5"/>
+    <circle cx="335" cy="385" r="5"/>
+    <circle cx="570" cy="385" r="5"/>
+    <circle cx="605" cy="385" r="5"/>
+    <circle cx="840" cy="385" r="5"/>
+    <circle cx="875" cy="385" r="5"/>
+    <circle cx="1110" cy="385" r="5"/>
+    <circle cx="1145" cy="385" r="5"/>
+  </g>
+  <rect x="70" y="650" width="1260" height="90" rx="14" fill="#1c2938"/>
+  <text x="105" y="704" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Design rule: no single layer silently rewrites another layer.</text>
+</svg>

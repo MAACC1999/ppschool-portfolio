@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="820" viewBox="0 0 1400 820" role="img" aria-labelledby="title desc">
+  <title id="title">PP School knowledge governance flow</title>
+  <desc id="desc">A source-grounded knowledge item moves through independent review, dissent preservation, deterministic verification, and human publication authority.</desc>
+  <rect width="1400" height="820" fill="#f7f9fb"/>
+  <text x="70" y="82" font-family="Arial, sans-serif" font-size="38" font-weight="700" fill="#1c2938">Evidence before publication</text>
+  <text x="70" y="125" font-family="Arial, sans-serif" font-size="20" fill="#536273">AI-assisted review can organize signals, but it does not grant canonical authority.</text>
+  <g font-family="Arial, sans-serif">
+    <rect x="70" y="230" width="190" height="180" rx="14" fill="#e5f4ef" stroke="#2d8c78" stroke-width="3"/>
+    <text x="95" y="275" font-size="17" font-weight="700" fill="#246957">01</text>
+    <text x="95" y="320" font-size="25" font-weight="700" fill="#1c2938">Source</text>
+    <text x="95" y="352" font-size="25" font-weight="700" fill="#1c2938">snapshot</text>
+    <text x="95" y="389" font-size="16" fill="#536273">Provenance + identity</text>
+    <rect x="315" y="230" width="190" height="180" rx="14" fill="#eef1fb" stroke="#5568b4" stroke-width="3"/>
+    <text x="340" y="275" font-size="17" font-weight="700" fill="#46599d">02</text>
+    <text x="340" y="320" font-size="25" font-weight="700" fill="#1c2938">Claim</text>
+    <text x="340" y="352" font-size="25" font-weight="700" fill="#1c2938">extraction</text>
+    <text x="340" y="389" font-size="16" fill="#536273">Locator + scope</text>
+    <rect x="560" y="210" width="280" height="220" rx="14" fill="#fff4df" stroke="#c58b25" stroke-width="3"/>
+    <text x="590" y="255" font-size="17" font-weight="700" fill="#9a6a10">03</text>
+    <text x="590" y="300" font-size="25" font-weight="700" fill="#1c2938">Independent</text>
+    <text x="590" y="332" font-size="25" font-weight="700" fill="#1c2938">review roles</text>
+    <text x="590" y="372" font-size="17" font-weight="700" fill="#2d8c78">Support - verify</text>
+    <text x="590" y="400" font-size="17" font-weight="700" fill="#b65773">Challenge - hold</text>
+    <text x="705" y="400" font-size="17" font-weight="700" fill="#9a6a10">Abstain - no admission</text>
+    <rect x="895" y="230" width="190" height="180" rx="14" fill="#fbe9ee" stroke="#b65773" stroke-width="3"/>
+    <text x="920" y="275" font-size="17" font-weight="700" fill="#9a405b">04</text>
+    <text x="920" y="320" font-size="25" font-weight="700" fill="#1c2938">Deterministic</text>
+    <text x="920" y="352" font-size="25" font-weight="700" fill="#1c2938">verification</text>
+    <text x="920" y="389" font-size="16" fill="#536273">Bytes, hashes, rules</text>
+    <rect x="1140" y="230" width="190" height="180" rx="14" fill="#e7eef8" stroke="#3a6ea5" stroke-width="3"/>
+    <text x="1165" y="275" font-size="17" font-weight="700" fill="#2e5b89">05</text>
+    <text x="1165" y="320" font-size="25" font-weight="700" fill="#1c2938">Human</text>
+    <text x="1165" y="352" font-size="25" font-weight="700" fill="#1c2938">publication</text>
+    <text x="1165" y="389" font-size="16" fill="#536273">Approve, hold, reject</text>
+  </g>
+  <g stroke="#7b8795" stroke-width="3" fill="none">
+    <path d="M260 320 H305"/>
+    <path d="M505 320 H550"/>
+    <path d="M840 320 H885" stroke="#2d8c78"/>
+    <path d="M1085 320 H1130"/>
+    <path d="M650 440 V500 H430 V560" stroke="#b65773"/>
+    <path d="M770 430 V500 H700 V560" stroke="#c58b25"/>
+  </g>
+  <g fill="#7b8795">
+    <path d="M305 320 l-12 -8 v16 z"/>
+    <path d="M550 320 l-12 -8 v16 z"/>
+    <path d="M885 320 l-12 -8 v16 z" fill="#2d8c78"/>
+    <path d="M1130 320 l-12 -8 v16 z"/>
+    <path d="M430 560 l12 -8 v16 z" fill="#b65773"/>
+    <path d="M700 560 l12 -8 v16 z" fill="#c58b25"/>
+  </g>
+  <rect x="70" y="505" width="360" height="150" rx="14" fill="#ffffff" stroke="#b65773" stroke-width="3"/>
+  <text x="100" y="550" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#9a405b">Challenge -> hold / review</text>
+  <text x="100" y="588" font-family="Arial, sans-serif" font-size="17" fill="#536273">Dissent remains visible and unresolved.</text>
+  <text x="100" y="616" font-family="Arial, sans-serif" font-size="17" fill="#536273">It cannot enter normal verification.</text>
+  <rect x="500" y="505" width="400" height="150" rx="14" fill="#ffffff" stroke="#c58b25" stroke-width="3"/>
+  <text x="530" y="550" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#9a6a10">Abstain -> no admission</text>
+  <text x="530" y="588" font-family="Arial, sans-serif" font-size="17" fill="#536273">Evidence is insufficient for a support claim.</text>
+  <text x="530" y="616" font-family="Arial, sans-serif" font-size="17" fill="#536273">Human review may keep it on hold.</text>
+  <rect x="460" y="690" width="870" height="70" rx="14" fill="#1c2938"/>
+  <text x="495" y="734" font-family="Arial, sans-serif" font-size="23" font-weight="700" fill="#ffffff">Publication is a human decision, not a model side effect.</text>
+</svg>
